@@ -185,7 +185,7 @@ msgstr "Incluir los números de las escenas"
 #: trelby/configpages/formattingpanel.py:65
 #: trelby/configpages/formattingpanel.py:64
 msgid "Show line numbers (debug)"
-msgstr ""
+msgstr "Mostrar números de línea (debug)"
 
 #: trelby/autocompletiondlg.py:14 trelby/trelbyframe.py:134
 msgid "Auto-completion"
@@ -193,11 +193,11 @@ msgstr "Autocompletado"
 
 #: trelby/autocompletiondlg.py:44
 msgid "Auto-completion enabled"
-msgstr ""
+msgstr "Autocompletado activado"
 
 #: trelby/autocompletiondlg.py:48
 msgid "Default items:"
-msgstr ""
+msgstr "Objetos por defecto"
 
 #: trelby/autocompletiondlg.py:60 trelby/cfgdlg.py:64 trelby/headersdlg.py:160
 #: trelby/importdlg.py:57 trelby/locationsdlg.py:49 trelby/misc.py:649
@@ -256,7 +256,7 @@ msgstr "Cadenas de texto"
 
 #: trelby/cfgdlg.py:61 trelby/headersdlg.py:157 trelby/gutil.py:56
 msgid "Apply"
-msgstr ""
+msgstr "Aplicar"
 
 #: trelby/charmapdlg.py:9 trelby/trelbyframe.py:167
 msgid "Character map"
@@ -264,11 +264,11 @@ msgstr "Mapa de caracteres"
 
 #: trelby/charmapdlg.py:18
 msgid " Insert character "
-msgstr ""
+msgstr "Insertar caracter "
 
 #: trelby/charmapdlg.py:148
 msgid "Selected:"
-msgstr ""
+msgstr "Seleccionado:"
 
 #: trelby/charmapdlg.py:159
 msgid "Opposite case:"
@@ -316,7 +316,7 @@ msgstr ""
 
 #: trelby/commandsdlg.py:93
 msgid "HTML files (*.html)|*.html|All files|*"
-msgstr ""
+msgstr "Archivos HTML (*.html)|*.html|Todos los archivos|*"
 
 #: trelby/characterreport.py:82
 msgid "Basic information"
@@ -451,7 +451,7 @@ msgstr ""
 
 #: trelby/configpages/miscpanel.py:184
 msgid "Choose program"
-msgstr ""
+msgstr "Elegir programa"
 
 #: trelby/configpages/miscpanel.py:202
 msgid "Unable to guess. Please set the path manually."
@@ -464,15 +464,15 @@ msgstr "Visor de PDF"
 #: trelby/configpages/paperpanel.py:23 trelby/configpages/pdffontspanel.py:38
 #: trelby/configpages/pdffontspanel.py:35
 msgid "Type:"
-msgstr ""
+msgstr "Tipo:"
 
 #: trelby/configpages/paperpanel.py:45
 msgid "Height:"
-msgstr ""
+msgstr "Altura:"
 
 #: trelby/configpages/paperpanel.py:56
 msgid "Margins"
-msgstr ""
+msgstr "Márgenes"
 
 #: trelby/configpages/paperpanel.py:60
 msgid "Top"
@@ -504,7 +504,7 @@ msgstr "Archivo:"
 
 #: trelby/configpages/pdfpanel.py:19
 msgid "Add table of contents"
-msgstr ""
+msgstr "Añadir tabla de contenidos"
 
 #: trelby/configpages/pdfpanel.py:22
 msgid "Show table of contents on PDF open"
@@ -566,15 +566,15 @@ msgstr ""
 
 #: trelby/finddlg.py:16
 msgid "Find & Replace"
-msgstr ""
+msgstr "Encontrar & Reemplazar"
 
 #: trelby/finddlg.py:34
 msgid "Find what:"
-msgstr ""
+msgstr "Encontrar:"
 
 #: trelby/finddlg.py:40
 msgid "Replace with:"
-msgstr ""
+msgstr "Reemplazar con:"
 
 #: trelby/finddlg.py:57
 msgid "Match whole word only"
@@ -586,7 +586,7 @@ msgstr ""
 
 #: trelby/finddlg.py:66
 msgid "Direction"
-msgstr ""
+msgstr "Dirección"
 
 #: trelby/finddlg.py:66
 msgid "Up"
@@ -598,15 +598,15 @@ msgstr ""
 
 #: trelby/finddlg.py:74 trelby/namesdlg.py:70 trelby/namesdlg.py:75
 msgid "Search in:"
-msgstr ""
+msgstr "Buscar en:"
 
 #: trelby/finddlg.py:227
 msgid "<<< Less"
-msgstr ""
+msgstr "<<< Menos"
 
 #: trelby/finddlg.py:240
 msgid "More >>>"
-msgstr ""
+msgstr "Más >>>"
 
 #: trelby/finddlg.py:365
 msgid "Search finished without results."
@@ -626,7 +626,7 @@ msgstr ""
 
 #: trelby/headersdlg.py:69 trelby/titlesdlg.py:94
 msgid "Text:"
-msgstr ""
+msgstr "Texto:"
 
 #: trelby/headersdlg.py:79
 #, python-brace-format
@@ -687,15 +687,15 @@ msgstr "No hay escenas seleccionadas en la lista superior."
 
 #: trelby/misc.py:629
 msgid "Choose scripts"
-msgstr ""
+msgstr "Elegir guiones"
 
 #: trelby/misc.py:636
 msgid "Compare script"
-msgstr ""
+msgstr "Comparar guion"
 
 #: trelby/misc.py:637
 msgid "to"
-msgstr ""
+msgstr "a"
 
 #: trelby/misc.py:641
 msgid "Use same configuration"
@@ -724,7 +724,7 @@ msgstr ""
 
 #: trelby/myimport.py:92
 msgid "File has no content."
-msgstr ""
+msgstr "El archivo no tiene contenido."
 
 #: trelby/myimport.py:109
 msgid "File is not a valid .fadein file."
@@ -732,7 +732,7 @@ msgstr ""
 
 #: trelby/myimport.py:211 trelby/myimport.py:292 trelby/myimport.py:382
 msgid "The file contains no importable lines"
-msgstr ""
+msgstr "El archivo no contiene líneas importables"
 
 #: trelby/myimport.py:226
 msgid "File is not a valid Celtx script file."
@@ -768,7 +768,7 @@ msgstr ""
 
 #: trelby/myimport.py:456
 msgid "Import options:"
-msgstr ""
+msgstr "Opciones de importación:"
 
 #: trelby/myimport.py:816
 msgid "File contains only empty lines."
@@ -780,27 +780,27 @@ msgstr ""
 
 #: trelby/namesdlg.py:99 trelby/namesdlg.py:104 trelby/trelbyframe.py:98
 msgid "Select all"
-msgstr ""
+msgstr "Seleccionar todo"
 
 #: trelby/namesdlg.py:110 trelby/namesdlg.py:115
 msgid "Search"
-msgstr ""
+msgstr "Buscar"
 
 #: trelby/namesdlg.py:117 trelby/namesdlg.py:122
 msgid "Insert"
-msgstr ""
+msgstr "Insertar"
 
 #: trelby/namesdlg.py:126 trelby/namesdlg.py:131
 msgid "Name"
-msgstr ""
+msgstr "Nombre"
 
 #: trelby/namesdlg.py:136 trelby/namesdlg.py:141
 msgid "Sex"
-msgstr ""
+msgstr "Sexo"
 
 #: trelby/namesdlg.py:146 trelby/namesdlg.py:151
 msgid "Results:"
-msgstr ""
+msgstr "Resultados"
 
 #: trelby/pdf.py:33
 msgid "draw not implemented"
@@ -836,7 +836,7 @@ msgstr ""
 
 #: trelby/spellcheckdlg.py:35
 msgid "Word:"
-msgstr ""
+msgstr "Palabra"
 
 #: trelby/spellcheckdlg.py:101
 msgid "No more incorrect words found."
@@ -866,7 +866,7 @@ msgstr ""
 
 #: trelby/spellcheckcfgdlg.py:23
 msgid "Global words:"
-msgstr ""
+msgstr "Palabras globales:"
 
 #: trelby/spellcheckcfgdlg.py:25
 msgid "Script-specific words:"
@@ -886,19 +886,19 @@ msgstr ""
 
 #: trelby/titlesdlg.py:46
 msgid "Move"
-msgstr ""
+msgstr "Mover"
 
 #: trelby/titlesdlg.py:51
 msgid "Next"
-msgstr ""
+msgstr "Siguiente"
 
 #: trelby/titlesdlg.py:146
 msgid "Font / Size:"
-msgstr ""
+msgstr "Fuente / Tamaño:"
 
 #: trelby/titlesdlg.py:358
 msgid "No pages."
-msgstr ""
+msgstr "Sin páginas"
 
 #: trelby/truetype.py:117
 msgid "No Postscript name found"
@@ -931,35 +931,35 @@ msgstr ""
 
 #: trelby/watermarkdlg.py:50
 msgid "Common mark:"
-msgstr ""
+msgstr "Marca común:"
 
 #: trelby/watermarkdlg.py:51
 msgid "Confidential"
-msgstr ""
+msgstr "Confidencial"
 
 #: trelby/watermarkdlg.py:54
 msgid "Watermarks (one per line):"
-msgstr ""
+msgstr "Marca de agua (una por línea):"
 
 #: trelby/watermarkdlg.py:61
 msgid "Close"
-msgstr ""
+msgstr "Cerrar"
 
 #: trelby/watermarkdlg.py:64
 msgid "Generate PDFs"
-msgstr ""
+msgstr "Generar PDFs"
 
 #: trelby/watermarkdlg.py:105
 msgid "Please set directory."
-msgstr ""
+msgstr "Por favor, indique directorio."
 
 #: trelby/watermarkdlg.py:158
 msgid "PDF generation aborted."
-msgstr ""
+msgstr "Generación de PDF abortado."
 
 #: trelby/watermarkdlg.py:166
 msgid "PDFs generated"
-msgstr ""
+msgstr "PDFs generados"
 
 #: trelby/watermarkdlg.py:171
 msgid "No watermarks specified."
@@ -968,11 +968,11 @@ msgstr ""
 #: trelby/trelbyctrl.py:140 trelby/trelbyctrl.py:143 trelby/trelbyframe.py:480
 #: trelby/util.py:1273 trelby/trelbyframe.py:496
 msgid "Warning"
-msgstr ""
+msgstr "Advertencia"
 
 #: trelby/trelbyctrl.py:196 trelby/trelbyctrl.py:199
 msgid "Include page markers"
-msgstr ""
+msgstr "Incluir marcas de página"
 
 #: trelby/trelbyctrl.py:199 trelby/trelbyctrl.py:214 trelby/trelbyctrl.py:202
 #: trelby/trelbyctrl.py:217
@@ -982,11 +982,11 @@ msgstr ""
 #: trelby/trelbyctrl.py:199 trelby/trelbyctrl.py:214 trelby/trelbyctrl.py:202
 #: trelby/trelbyctrl.py:217
 msgid "Options:"
-msgstr ""
+msgstr "Opciones:"
 
 #: trelby/trelbyctrl.py:211 trelby/trelbyctrl.py:214
 msgid "Include Notes"
-msgstr ""
+msgstr "Incluir notas"
 
 #: trelby/trelbyctrl.py:625 trelby/trelbyctrl.py:631
 msgid "You can't compare a script to itself."
@@ -1006,7 +1006,7 @@ msgstr ""
 
 #: trelby/trelbyctrl.py:874 trelby/trelbyctrl.py:881
 msgid "Invalid page number."
-msgstr ""
+msgstr "Número de página inválido."
 
 #: trelby/trelbyctrl.py:879 trelby/trelbyctrl.py:886 trelby/trelbyframe.py:99
 msgid "Goto page"
@@ -1014,7 +1014,7 @@ msgstr ""
 
 #: trelby/trelbyctrl.py:909 trelby/trelbyctrl.py:916
 msgid "No errors found."
-msgstr ""
+msgstr "Errores no encontrados."
 
 #: trelby/trelbyctrl.py:954 trelby/trelbyctrl.py:960
 msgid "Spell checker found no errors."
@@ -1034,7 +1034,7 @@ msgstr ""
 
 #: trelby/trelbyframe.py:236 trelby/trelbyframe.py:252
 msgid "Exit fullscreen"
-msgstr ""
+msgstr "Salir de pantalla completa"
 
 #: trelby/trelbyframe.py:278 trelby/trelbyframe.py:294
 msgid "Element type"
@@ -1042,15 +1042,15 @@ msgstr ""
 
 #: trelby/trelbyframe.py:282 trelby/trelbyframe.py:85 trelby/trelbyframe.py:298
 msgid "Cut"
-msgstr ""
+msgstr "Cortar"
 
 #: trelby/trelbyframe.py:283 trelby/trelbyframe.py:86 trelby/trelbyframe.py:299
 msgid "Copy"
-msgstr ""
+msgstr "Copiar"
 
 #: trelby/trelbyframe.py:285 trelby/trelbyframe.py:87 trelby/trelbyframe.py:301
 msgid "Paste"
-msgstr ""
+msgstr "Pegar"
 
 #: trelby/trelbyframe.py:572 trelby/trelbyframe.py:643
 #: trelby/trelbyframe.py:816 trelby/trelbyframe.py:571
@@ -1058,7 +1058,7 @@ msgstr ""
 #: trelby/trelbyframe.py:587 trelby/trelbyframe.py:679
 #: trelby/trelbyframe.py:862
 msgid "File to open"
-msgstr ""
+msgstr "Archivo a abrir"
 
 #: trelby/trelbyframe.py:869 trelby/trelbyframe.py:868
 #: trelby/trelbyframe.py:928
@@ -1075,7 +1075,7 @@ msgstr ""
 #: trelby/trelbyframe.py:908 trelby/trelbyframe.py:907
 #: trelby/trelbyframe.py:967
 msgid "Save Changes"
-msgstr ""
+msgstr "Guardar cambios"
 
 #: trelby/characterreport.py:102
 #, python-format
@@ -1152,7 +1152,7 @@ msgstr ""
 
 #: trelby/configpages/paperpanel.py:130
 msgid "Lines per page: {}"
-msgstr ""
+msgstr "Líneas por página: {}"
 
 #: trelby/configpages/pdffontspanel.py:27
 msgid ""
