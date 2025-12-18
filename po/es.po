@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: trelby 2.4.16\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-10-03 09:24-0500\n"
-"PO-Revision-Date: 2025-12-03 16:26+0100\n"
+"PO-Revision-Date: 2025-12-18 02:20+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: es_ES\n"
@@ -42,17 +42,17 @@ msgstr "Elemento:"
 #: trelby/configpages/elementsglobalpanel.py:36
 #: trelby/configpages/elementsglobalpanel.py:35
 msgid "Enter creates"
-msgstr ""
+msgstr "Intro crea"
 
 #: trelby/configpages/elementsglobalpanel.py:37
 #: trelby/configpages/elementsglobalpanel.py:36
 msgid "Tab creates"
-msgstr ""
+msgstr "Tabulación crea"
 
 #: trelby/configpages/elementsglobalpanel.py:38
 #: trelby/configpages/elementsglobalpanel.py:37
 msgid "Tab switches to"
-msgstr "La pestaña cambia a"
+msgstr "Tabulación cambia a"
 
 #: trelby/configpages/elementsglobalpanel.py:39
 #: trelby/configpages/elementsglobalpanel.py:38
@@ -62,7 +62,7 @@ msgstr "Shift+Tab cambia a"
 #: trelby/configpages/elementsglobalpanel.py:67
 #: trelby/configpages/elementsglobalpanel.py:66
 msgid "Combo"
-msgstr ""
+msgstr "Combo"
 
 #: trelby/configpages/displaypanel.py:15 trelby/configpages/displaypanel.py:14
 msgid "Screen fonts:"
@@ -78,11 +78,11 @@ msgstr "pixels"
 
 #: trelby/configpages/displaypanel.py:73 trelby/configpages/displaypanel.py:72
 msgid "Page break lines to show"
-msgstr ""
+msgstr "Líneas de salto de página a mostrar"
 
 #: trelby/configpages/displaypanel.py:76 trelby/configpages/displaypanel.py:75
 msgid "None"
-msgstr ""
+msgstr "Ninguna"
 
 #: trelby/configpages/displaypanel.py:76 trelby/configpages/displaypanel.py:75
 msgid "Normal"
@@ -145,7 +145,7 @@ msgstr "Subrayado"
 #: trelby/configpages/formattingpanel.py:28
 #: trelby/configpages/formattingpanel.py:27
 msgid "Action:"
-msgstr ""
+msgstr "Acción:"
 
 #: trelby/configpages/formattingpanel.py:29
 #: trelby/configpages/formattingpanel.py:28 trelby/trelbyframe.py:288
@@ -155,22 +155,22 @@ msgstr "Diálogo"
 #: trelby/configpages/formattingpanel.py:34
 #: trelby/configpages/formattingpanel.py:33
 msgid "Font size:"
-msgstr "Tamaño de fuente"
+msgstr "Tamaño de fuente:"
 
 #: trelby/configpages/formattingpanel.py:37
 #: trelby/configpages/formattingpanel.py:36
 msgid "Scene CONTINUEDs:"
-msgstr ""
+msgstr "Escenas CONTINUADAS:"
 
 #: trelby/configpages/formattingpanel.py:40
 #: trelby/configpages/formattingpanel.py:39
 msgid "Include,"
-msgstr ""
+msgstr "Incluir,"
 
 #: trelby/configpages/formattingpanel.py:45
 #: trelby/configpages/formattingpanel.py:44
 msgid "indent:"
-msgstr ""
+msgstr "sangría:"
 
 #: trelby/configpages/formattingpanel.py:48
 #: trelby/configpages/formattingpanel.py:47
@@ -197,7 +197,7 @@ msgstr "Autocompletado activado"
 
 #: trelby/autocompletiondlg.py:48
 msgid "Default items:"
-msgstr "Objetos por defecto"
+msgstr "Objetos por defecto:"
 
 #: trelby/autocompletiondlg.py:60 trelby/cfgdlg.py:64 trelby/headersdlg.py:160
 #: trelby/importdlg.py:57 trelby/locationsdlg.py:49 trelby/misc.py:649
@@ -208,11 +208,11 @@ msgstr "Cancelar"
 
 #: trelby/cfgdlg.py:34
 msgid "Settings dialog"
-msgstr ""
+msgstr "Opciones de diálogo"
 
 #: trelby/cfgdlg.py:36 trelby/cfgdlg.py:45 trelby/trelbyframe.py:179
 msgid "About"
-msgstr ""
+msgstr "Acerca"
 
 #: trelby/cfgdlg.py:37
 msgid "Colors"
@@ -220,7 +220,7 @@ msgstr "Colores"
 
 #: trelby/cfgdlg.py:38
 msgid "Display"
-msgstr ""
+msgstr "Mostrar"
 
 #: trelby/cfgdlg.py:39 trelby/cfgdlg.py:46
 msgid "Elements"
@@ -264,7 +264,7 @@ msgstr "Mapa de caracteres"
 
 #: trelby/charmapdlg.py:18
 msgid " Insert character "
-msgstr "Insertar caracter "
+msgstr "Insertar carácter:"
 
 #: trelby/charmapdlg.py:148
 msgid "Selected:"
@@ -360,7 +360,7 @@ msgstr ""
 
 #: trelby/configpages/keyboardpanel.py:86
 msgid "The key is already bound to this command."
-msgstr "La tecla ya está asociada a este comando"
+msgstr "La tecla ya está asociada a este comando."
 
 #: trelby/configpages/keyboardpanel.py:87
 #: trelby/configpages/keyboardpanel.py:97 trelby/locationsdlg.py:93
@@ -675,7 +675,7 @@ msgstr ""
 
 #: trelby/locationsdlg.py:39
 msgid "Scenes:"
-msgstr "Escenas"
+msgstr "Escenas:"
 
 #: trelby/locationsdlg.py:93
 msgid "No scenes selected in the lower list."
@@ -800,7 +800,7 @@ msgstr "Sexo"
 
 #: trelby/namesdlg.py:146 trelby/namesdlg.py:151
 msgid "Results:"
-msgstr "Resultados"
+msgstr "Resultados:"
 
 #: trelby/pdf.py:33
 msgid "draw not implemented"
@@ -836,7 +836,7 @@ msgstr ""
 
 #: trelby/spellcheckdlg.py:35
 msgid "Word:"
-msgstr "Palabra"
+msgstr "Palabra:"
 
 #: trelby/spellcheckdlg.py:101
 msgid "No more incorrect words found."
@@ -898,7 +898,7 @@ msgstr "Fuente / Tamaño:"
 
 #: trelby/titlesdlg.py:358
 msgid "No pages."
-msgstr "Sin páginas"
+msgstr "Sin páginas."
 
 #: trelby/truetype.py:117
 msgid "No Postscript name found"
