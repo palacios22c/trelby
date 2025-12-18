@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: trelby 2.4.16\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-10-03 09:24-0500\n"
-"PO-Revision-Date: 2025-12-18 02:20+0100\n"
+"PO-Revision-Date: 2025-12-18 20:30+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: es_ES\n"
@@ -232,23 +232,23 @@ msgstr "Teclado"
 
 #: trelby/cfgdlg.py:41
 msgid "Misc"
-msgstr ""
+msgstr "Misc"
 
 #: trelby/cfgdlg.py:43
 msgid "Script settings dialog"
-msgstr ""
+msgstr "Diálogo de configuración de guion"
 
 #: trelby/cfgdlg.py:47
 msgid "Formatting"
-msgstr ""
+msgstr "Formatos"
 
 #: trelby/cfgdlg.py:48
 msgid "Paper"
-msgstr ""
+msgstr "Papel"
 
 #: trelby/cfgdlg.py:50
 msgid "PDF/Fonts"
-msgstr ""
+msgstr "PDF/Fuentes"
 
 #: trelby/cfgdlg.py:51
 msgid "Strings"
@@ -272,12 +272,12 @@ msgstr "Seleccionado:"
 
 #: trelby/charmapdlg.py:159
 msgid "Opposite case:"
-msgstr ""
+msgstr "Caso contrario:"
 
 #: trelby/charmapdlg.py:163
 #, python-format
 msgid "Character code: %d"
-msgstr ""
+msgstr "Código carácter: %d"
 
 #: trelby/charmapdlg.py:166
 msgid "Normal space"
@@ -285,7 +285,7 @@ msgstr "Espacio normal"
 
 #: trelby/charmapdlg.py:168
 msgid "Non-breaking space"
-msgstr ""
+msgstr "Espacio de no ruptura"
 
 #: trelby/charmapdlg.py:172
 msgid "Click on a character to select it."
@@ -293,15 +293,15 @@ msgstr "Pulsar sobre un caracter para seleccionarlo."
 
 #: trelby/commandsdlg.py:12 trelby/trelbyframe.py:176
 msgid "Commands"
-msgstr ""
+msgstr "Comandos"
 
 #: trelby/commandsdlg.py:21
 msgid "Key(s)"
-msgstr ""
+msgstr "Tecla(s)"
 
 #: trelby/commandsdlg.py:22
 msgid "Command"
-msgstr ""
+msgstr "Comando"
 
 #: trelby/commandsdlg.py:33
 msgid "No key defined"
@@ -699,7 +699,7 @@ msgstr "a"
 
 #: trelby/misc.py:641
 msgid "Use same configuration"
-msgstr ""
+msgstr "Usar la misma configuración"
 
 #: trelby/misc.py:767
 msgid "Set"
@@ -728,7 +728,7 @@ msgstr "El archivo no tiene contenido."
 
 #: trelby/myimport.py:109
 msgid "File is not a valid .fadein file."
-msgstr ""
+msgstr "Archivo .fadein no válido."
 
 #: trelby/myimport.py:211 trelby/myimport.py:292 trelby/myimport.py:382
 msgid "The file contains no importable lines"
@@ -832,7 +832,7 @@ msgstr ""
 
 #: trelby/spellcheckdlg.py:15 trelby/trelbyframe.py:165
 msgid "Spell checker"
-msgstr ""
+msgstr "Corrector ortográfico"
 
 #: trelby/spellcheckdlg.py:35
 msgid "Word:"
@@ -846,7 +846,7 @@ msgstr ""
 #: trelby/trelbyctrl.py:654 trelby/trelbyctrl.py:955 trelby/finddlg.py:465
 #: trelby/trelbyctrl.py:660 trelby/trelbyctrl.py:918 trelby/trelbyctrl.py:961
 msgid "Results"
-msgstr ""
+msgstr "Resultados"
 
 #: trelby/spellcheckdlg.py:206
 msgid "No similar words found."
@@ -854,7 +854,7 @@ msgstr ""
 
 #: trelby/spellcheckdlg.py:211
 msgid "Most similar words:"
-msgstr ""
+msgstr "Palabras más similares:"
 
 #: trelby/spellcheckdlg.py:211
 msgid "Suggestions"
@@ -862,7 +862,7 @@ msgstr ""
 
 #: trelby/spellcheckcfgdlg.py:14 trelby/trelbyframe.py:71
 msgid "Spell checker dictionary"
-msgstr ""
+msgstr "Diccionario de corrector ortográfico"
 
 #: trelby/spellcheckcfgdlg.py:23
 msgid "Global words:"
@@ -870,7 +870,7 @@ msgstr "Palabras globales:"
 
 #: trelby/spellcheckcfgdlg.py:25
 msgid "Script-specific words:"
-msgstr ""
+msgstr "Palabras específicas del guion:"
 
 #: trelby/splash.py:28
 msgid "Splash"
@@ -923,11 +923,11 @@ msgstr ""
 
 #: trelby/watermarkdlg.py:38
 msgid "Filename prefix:"
-msgstr ""
+msgstr "Prefijo del nombre del archivo:"
 
 #: trelby/watermarkdlg.py:42
 msgid "Watermark font size:"
-msgstr ""
+msgstr "Tamaño de marca de agua:"
 
 #: trelby/watermarkdlg.py:50
 msgid "Common mark:"
@@ -1104,7 +1104,7 @@ msgstr ""
 
 #: trelby/characterreport.py:124
 msgid "Pages: {}, list: {}"
-msgstr ""
+msgstr "Páginas: {}, lista: {}"
 
 #: trelby/configpages/displaypanel.py:38
 msgid "The settings below apply only to 'Draft' view mode."
@@ -1196,7 +1196,7 @@ msgstr ""
 
 #: trelby/config.py:697
 msgid "Show the about dialog."
-msgstr ""
+msgstr "Mostrar el diálogo Sobre."
 
 #: trelby/config.py:700
 msgid "Open the auto-completion dialog."
@@ -1244,11 +1244,11 @@ msgstr ""
 
 #: trelby/config.py:747
 msgid "Close the current script."
-msgstr ""
+msgstr "Cerrar el guion actual."
 
 #: trelby/config.py:752
 msgid "Compare two scripts."
-msgstr ""
+msgstr "Comparar dos guiones."
 
 #: trelby/config.py:755
 msgid "Copy selected text to the internal clipboard."
