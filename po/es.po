@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: trelby 2.4.16\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-10-03 09:24-0500\n"
-"PO-Revision-Date: 2025-12-19 19:10+0100\n"
+"PO-Revision-Date: 2025-12-20 11:11+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: es_ES\n"
@@ -332,11 +332,11 @@ msgstr "Lista de ubicaciones"
 
 #: trelby/configpages/keyboardpanel.py:18
 msgid "Commands:"
-msgstr ""
+msgstr "Comandos:"
 
 #: trelby/configpages/keyboardpanel.py:31
 msgid "Keys:"
-msgstr ""
+msgstr "Claves:"
 
 #: trelby/configpages/keyboardpanel.py:36 trelby/headersdlg.py:55
 #: trelby/locationsdlg.py:29 trelby/titlesdlg.py:36 trelby/titlesdlg.py:72
@@ -352,11 +352,11 @@ msgstr "Borrar"
 
 #: trelby/configpages/keyboardpanel.py:46
 msgid "Description:"
-msgstr ""
+msgstr "Descripción:"
 
 #: trelby/configpages/keyboardpanel.py:57
 msgid "Conflicting keys:"
-msgstr ""
+msgstr "Claves conflictivas:"
 
 #: trelby/configpages/keyboardpanel.py:86
 msgid "The key is already bound to this command."
@@ -393,7 +393,7 @@ msgstr "No puedes vincular personajes de entrada a comandos."
 
 #: trelby/configpages/miscpanel.py:17
 msgid "Default script directory"
-msgstr ""
+msgstr "Directorio de guion por defecto"
 
 #: trelby/configpages/miscpanel.py:25 trelby/configpages/miscpanel.py:49
 #: trelby/configpages/pdffontspanel.py:64 trelby/watermarkdlg.py:33
@@ -435,7 +435,7 @@ msgstr "Recentrar la pantalla al desplazarse"
 
 #: trelby/configpages/miscpanel.py:86
 msgid "Typing replaces selected text"
-msgstr "Reemplaza el texto seleccionado al escribir"
+msgstr "Sustituye el texto seleccionado al escribir"
 
 #: trelby/configpages/miscpanel.py:89
 msgid "Check script for errors before print, export or compare"
@@ -874,7 +874,6 @@ msgid "Script-specific words:"
 msgstr "Palabras específicas del guion:"
 
 #: trelby/splash.py:28
-#, fuzzy
 msgid "Splash"
 msgstr "Inicio"
 
@@ -992,15 +991,15 @@ msgstr "Incluir Notas"
 
 #: trelby/trelbyctrl.py:625 trelby/trelbyctrl.py:631
 msgid "You can't compare a script to itself."
-msgstr ""
+msgstr "No se puede comparar un guion consigo mismo."
 
 #: trelby/trelbyctrl.py:654 trelby/trelbyctrl.py:660
 msgid "The scripts are identical."
-msgstr ""
+msgstr "Los guiones son idénticos."
 
 #: trelby/trelbyctrl.py:842 trelby/trelbyctrl.py:849
 msgid "Invalid scene number."
-msgstr ""
+msgstr "Número de escena no válido."
 
 #: trelby/trelbyctrl.py:847 trelby/trelbyctrl.py:854 trelby/trelbyframe.py:100
 msgid "Goto scene"
@@ -1020,19 +1019,19 @@ msgstr "Errores no encontrados."
 
 #: trelby/trelbyctrl.py:954 trelby/trelbyctrl.py:960
 msgid "Spell checker found no errors."
-msgstr ""
+msgstr "El revisor ortográfico no encontró errores."
 
 #: trelby/trelbyctrl.py:986 trelby/trelbyctrl.py:992 trelby/trelbyframe.py:106
 msgid "Delete elements"
-msgstr ""
+msgstr "Eliminar elementos"
 
 #: trelby/trelbyctrl.py:988 trelby/trelbyctrl.py:994
 msgid "Element types to delete:"
-msgstr ""
+msgstr "Tipos de elementos a eliminar:"
 
 #: trelby/trelbyctrl.py:1042 trelby/trelbyctrl.py:1048
 msgid "Filename to export as"
-msgstr ""
+msgstr "Nombre de archivo a exportar como"
 
 #: trelby/trelbyframe.py:236 trelby/trelbyframe.py:252
 msgid "Exit fullscreen"
@@ -1040,7 +1039,7 @@ msgstr "Salir de pantalla completa"
 
 #: trelby/trelbyframe.py:278 trelby/trelbyframe.py:294
 msgid "Element type"
-msgstr ""
+msgstr "Tipo de elemento"
 
 #: trelby/trelbyframe.py:282 trelby/trelbyframe.py:85 trelby/trelbyframe.py:298
 msgid "Cut"
@@ -1065,7 +1064,7 @@ msgstr "Archivo a abrir"
 #: trelby/trelbyframe.py:869 trelby/trelbyframe.py:868
 #: trelby/trelbyframe.py:928
 msgid "Error opening name database."
-msgstr ""
+msgstr "Error al abrir el nombre de la base de datos."
 
 #: trelby/trelbyframe.py:907 trelby/trelbyframe.py:906
 #: trelby/trelbyframe.py:966
@@ -1084,27 +1083,27 @@ msgstr "Guardar cambios"
 #: trelby/characterreport.py:102
 #, python-format
 msgid "Speeches: %d, Lines: %d (%.2f%%), per speech: %.2f"
-msgstr ""
+msgstr "Diálogos: %d, Líneas: %d (%.2f%%), por diálogo: %.2f"
 
 #: trelby/characterreport.py:103
 msgid "Speeches: {}, Lines: {} {:.2f}, per speech: {:.2f}"
-msgstr ""
+msgstr "Diálogos: {}, Líneas: {} {:.2f}, por diálogo: {:.2f}"
 
 #: trelby/characterreport.py:103
 msgid "Speeches: {}, Lines: {:.2f}, per speech: {:.2f}"
-msgstr ""
+msgstr "Diálogos: {}, Líneas: {:.2f}, por diálogo: {:.2f}"
 
 #: trelby/characterreport.py:103
 msgid "Speeches: {}, Lines: {} %{:.2f}, per speech: {:.2f}"
-msgstr ""
+msgstr "Diálogos: {}, Líneas: {} %{:.2f}, por diálogo: {:.2f}"
 
 #: trelby/characterreport.py:114
 msgid "Words: {}, per speech: %{:.2f}, characters per: %{:.2f}"
-msgstr ""
+msgstr "Palabras: {}, por diálogo: %{:.2f}, caracteres por: %{:.2f}"
 
 #: trelby/characterreport.py:114
 msgid "Words: {}, per speech: {:.2f}, characters per: {:.2f}"
-msgstr ""
+msgstr "Palabras: {}, por diálogo: {:.2f}, caracteres por: {:.2f}"
 
 #: trelby/characterreport.py:124
 msgid "Pages: {}, list: {}"
@@ -1112,11 +1111,11 @@ msgstr "Páginas: {}, lista: {}"
 
 #: trelby/configpages/displaypanel.py:38
 msgid "The settings below apply only to 'Draft' view mode."
-msgstr ""
+msgstr "Los ajustes siguientes se aplican solo al modo de vista ‘Borrador’."
 
 #: trelby/configpages/displaypanel.py:117
 msgid "The selected font is not fixed width and can not be used."
-msgstr ""
+msgstr "La fuente seleccionada no es de ancho fijo y no puede utilizarse."
 
 #: trelby/configpages/elementspanel.py:96
 #: trelby/configpages/elementspanel.py:118
@@ -1128,6 +1127,8 @@ msgid ""
 "Leave at least this many lines at the end of a page when\n"
 "breaking in the middle of an element:"
 msgstr ""
+"Deja al menos estas líneas al final de una página cuando\n"
+"se haga un salto en medio de un elemento:"
 
 #: trelby/configpages/globalaboutpanel.py:7
 msgid ""
@@ -1141,18 +1142,32 @@ msgid ""
 "None of the settings here have any effect on the generated PDF\n"
 "output for a script. See Script/Settings for those."
 msgstr ""
+"Este es el diálogo de configuración de ajustes globales, es decir,\n"
+"lo que afectan a la interfaz de usuarios del programa como los colores,\n"
+"atajos de teclado, fuentes de visualización y similares.\n"
+"\n"
+"Los ajustes aquí son independientes de cualquier guion en el que se "
+"trabaje,\n"
+"y son exclusivos de este equipo.\n"
+"\n"
+"Ninguno de los ajustes afecta a la salida PDF generada\n"
+"para un guion. Ver Guion/Configuración para modificarlos."
 
 #: trelby/configpages/miscpanel.py:105
 msgid ""
 "Show splash screen for X seconds:\n"
 " (0 = disable)"
 msgstr ""
+"Mostrar pantalla de inicio por X segundos:\n"
+"(0 = desactivado)"
 
 #: trelby/configpages/miscpanel.py:113
 msgid ""
 "Auto-paginate interval in seconds:\n"
 " (0 = disable)"
 msgstr ""
+"Intervalo de auto paginado en segundos:\n"
+"(0 = desactivado)"
 
 #: trelby/configpages/paperpanel.py:130
 msgid "Lines per page: {}"
@@ -1167,6 +1182,13 @@ msgid ""
 "the specified TrueType font. \n"
 "See the manual for the full details.\n"
 msgstr ""
+"Deja todos los campos vacíos para usar las fuentes Courier por defecto del "
+"PDF.\n"
+"Altamente recomendable.\n"
+"\n"
+"De lo contrario, introduce el nombre de la fuente para usar\n"
+"la fuente TrueType especificada.\n"
+"Ver el manual para más detalles.\n"
 
 #: trelby/configpages/pdffontspanel.py:161
 msgid ""
@@ -1314,11 +1336,11 @@ msgstr "Ir a una escena concreta."
 
 #: trelby/config.py:840
 msgid "Open the headers dialog."
-msgstr ""
+msgstr "Abrir diálogo de encabezados."
 
 #: trelby/config.py:843
 msgid "Show list of commands and their key bindings."
-msgstr ""
+msgstr "Mostrar los comandos y sus teclas asociadas."
 
 #: trelby/config.py:846
 msgid "Open the manual."
@@ -1330,7 +1352,7 @@ msgstr "Importar un guion."
 
 #: trelby/config.py:850
 msgid "Insert non-breaking space."
-msgstr ""
+msgstr "Insertar espacio no separable."
 
 #: trelby/config.py:856
 msgid "Load script-specific settings."
@@ -1362,19 +1384,19 @@ msgstr "Mover a la izquierda."
 
 #: trelby/config.py:883
 msgid "Move to start of next word."
-msgstr ""
+msgstr "Mover al inicio de la palabra siguiente."
 
 #: trelby/config.py:890
 msgid "Move one page down."
-msgstr ""
+msgstr "Mover una página abajo."
 
 #: trelby/config.py:896
 msgid "Move one page up."
-msgstr ""
+msgstr "Mover una página arriba."
 
 #: trelby/config.py:902
 msgid "Move to start of previous word."
-msgstr ""
+msgstr "Mover al inicio de la palabra anterior."
 
 #: trelby/config.py:907
 msgid "Move right."
@@ -1402,15 +1424,15 @@ msgstr "Mover arriba."
 
 #: trelby/config.py:940
 msgid "Open the character name database."
-msgstr ""
+msgstr "Abrir la base de datos de nombres de personajes."
 
 #: trelby/config.py:944
 msgid "Create a new element."
-msgstr ""
+msgstr "Crear un nuevo elemento."
 
 #: trelby/config.py:950
 msgid "Create a new script."
-msgstr ""
+msgstr "Crear un nuevo guion."
 
 #: trelby/config.py:957
 msgid "Open a script."
@@ -1418,7 +1440,7 @@ msgstr "Abrir un guion."
 
 #: trelby/config.py:962
 msgid "Paginate current script."
-msgstr ""
+msgstr "Paginar el guion actual."
 
 #: trelby/config.py:965
 msgid "Paste text from the internal clipboard."
@@ -1546,7 +1568,7 @@ msgstr ""
 
 #: trelby/config.py:1113
 msgid "Change view mode to layout."
-msgstr ""
+msgstr "Cambiar vista a diseño."
 
 #: trelby/config.py:1117
 msgid "Change view mode to side by side."
@@ -1645,6 +1667,8 @@ msgid ""
 "Search finished at the {} of the script. Do\n"
 "you want to continue at the {} of the script?"
 msgstr ""
+"Las búsqueda terminó en el {} del guion.\n"
+"¿Quieres serguir en el {} del guion?"
 
 #: trelby/finddlg.py:389
 msgid "Continue?"
@@ -1652,7 +1676,7 @@ msgstr ""
 
 #: trelby/finddlg.py:465
 msgid "Replaced {} matches"
-msgstr ""
+msgstr "Sustituir {} coincidencias"
 
 #: trelby/globaldata.py:70
 msgid "Files"
@@ -1670,7 +1694,7 @@ msgstr ""
 
 #: trelby/importdlg.py:24
 msgid "{} lines (indented {} characters)"
-msgstr ""
+msgstr "{} líneas (sangrado de {} caracteres)"
 
 #: trelby/importdlg.py:32
 msgid "Style:"
@@ -1678,7 +1702,7 @@ msgstr "Estilo:"
 
 #: trelby/importdlg.py:35
 msgid "Scene / Action"
-msgstr ""
+msgstr "Escena / Acción"
 
 #: trelby/importdlg.py:39
 msgid "Ignore"
